@@ -1,0 +1,14 @@
+debug_adapter_esp8266-probe_to_debugedge-backups
+*.swp
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+_autosave-*
+#auto_saved_files#
+
+# ignore kicad bom files and associated files:
+debug_adapter_esp8266-probe_to_debugedge.csv
+debug_adapter_esp8266-probe_to_debugedge.xml
+
+
+exports/
